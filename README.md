@@ -14,9 +14,9 @@ hopefully I will improve as time goes!
 
 ### 📚 Need to study
 
-- [] Backtracking
-- [] String manipulation
-- [] Bit manipulation
+- [ ] Backtracking
+- [ ] String manipulation
+- [ ] Bit manipulation
 
 ### 😎 Proficient (somewhat)
 
