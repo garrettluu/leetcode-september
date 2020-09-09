@@ -6,7 +6,7 @@ hopefully I will improve as time goes!
 
 ## Stats:
 
-- ✅**Days Completed**: 5
+- ✅**Days Completed**: 6
 - ❌**Days Missed**: 3
 - 🎯**Days Left**: 26
 
