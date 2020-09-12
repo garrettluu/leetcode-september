@@ -8,7 +8,7 @@ hopefully I will improve as time goes!
 
 - ✅**Days Completed**: 8
 - ❌**Days Missed**: 3
-- 🎯**Days Left**: 26
+- 🎯**Days Left**: 19
 
 ## Topics:
 
