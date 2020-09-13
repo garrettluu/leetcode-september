@@ -17,6 +17,7 @@ hopefully I will improve as time goes!
 - [ ] Backtracking
 - [ ] String manipulation
 - [ ] Bit manipulation
+- [ ] Greedy algorithms
 
 ### 😎 Proficient (somewhat)
 
